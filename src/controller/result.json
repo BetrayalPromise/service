@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "people": [
+    { "image": "http://imgsrc.baidu.com/forum/pic/item/b74543a98226cffc748a1d47b9014a90f703eaa7.jpg",
+      "lastName": "xxx"
+    },
+    { "image": "http://imgsrc.baidu.com/forum/pic/item/b74543a98226cffc748a1d47b9014a90f703eaa7.jpg",
+      "lastName": "Hunter"
+    },
+    { "image": "http://imgsrc.baidu.com/forum/pic/item/b74543a98226cffc748a1d47b9014a90f703eaa7.jpg",
+      "lastName":"xxx"
+    }
+  ],
+  "message": "请求成功"
+}
